@@ -1,0 +1,8 @@
+.s
+.sw
+
+*.bat
+*.sh
+*.exe
+private.pem
+sw.lock
