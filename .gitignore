@@ -1,0 +1,13 @@
+.s
+.sw
+cache
+client_sync
+
+*.bat
+*.sh
+*.exe
+private.pem
+sw.lock
+
+*.lnk
+*.cpp
