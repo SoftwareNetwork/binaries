@@ -1,0 +1,16 @@
+.s
+.sw
+cache
+client_sync*
+*Copy*
+
+*.bat
+*.sh
+private.pem
+*.key
+sw.lock
+
+*.lnk
+*.cpp
+
+*.log
